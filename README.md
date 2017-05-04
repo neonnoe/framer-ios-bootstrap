@@ -14,3 +14,9 @@ You can use npm to install node packages.
 This project uses babel to transpile ES6 code into useble JS code for framer. If you make changes in any JS file, you hate to run a grunt task to transpile and copy the JS files. Run grunt with:
 
 ``grunt``
+
+It will copy transpiled JS files into
+
+``modules/dist``
+
+From there they can be used in framer modules.
