@@ -1,0 +1,17 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "fullScreen" : false,
+  "sharedPrototype" : 0,
+  "deviceType" : "apple-iphone-5s-space-gray",
+  "projectId" : "749F87C0-B5DD-48BB-921D-2D6E0055FF5F",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
+}
